@@ -9,7 +9,20 @@ Runs the website in the live :
 ### `Route is not work properly while I deploying in firebase`
 Open [https://programming-hero-book-shop.web.app/](https://programming-hero-book-shop.web.app/) to view it in the browser.
 
+### FEATURES
 
+Here you order a book. You can see your order list. You can store your order in mongodb database. You can post new product. you can also delete any product.
+
+
+1. Here customer ordered any product.
+2. Customer can see his order list.
+3. Admin can add any product.
+4. This is developed by NodeJs, React,React-router, HTML/CSS, Bootstrap,
+and React-bootstrap.
+
+
+### NOTE
+You can not visit the Cheakout and order page without Sign in or Login.
 
 
 ### `WE USE THOSE SITE TO DEVELOPE THIS SITE `
@@ -38,12 +51,7 @@ Site Link: [https://fontawesome.com/](https://fontawesome.com/)
 Site Link: [https://www.mongodb.com/](https://www.mongodb.com/)
 
 
-### FEATURES
 
-Here you order a book. You can see your order list. You can store your order in mongodb database. You can post new product. you can also delete any product.
-
-### NOTE
-You can not visit the Cheakout and order page without Sign in or Login.
 
 
 
